@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "name": "redis",
+      "type": "com.hanyu.miaosha.redis.RedisConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "name": "redis.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.pool-max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.pool-max-total",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.pool-max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hanyu.miaosha.redis.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.timeout",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
