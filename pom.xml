@@ -103,7 +103,7 @@
 
         <artifactId>fastjson</artifactId>
 
-        <version>1.2.38</version>
+        <version>1.2.83</version>
 
     </dependency>
 
